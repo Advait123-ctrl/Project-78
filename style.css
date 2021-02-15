@@ -1,0 +1,23 @@
+
+    #i1{
+    border-style: solid;
+    border-color: green;
+    border: 3px;
+    border-width: 3px;
+    width: 450px;
+    padding: 5px;
+    }
+    body{
+    text-align: center;
+    }#i2{
+    border-style: solid;
+    border-color: green;
+    border: 3px;
+    border-width: 3px;
+    width: 450px;
+    padding: 5px;
+    }
+    body{
+    text-align: center;
+    }
+      
